@@ -16,8 +16,9 @@
 
 body {
     background-color: rgb(10, 10, 10);
-    display: grid;
-    margin: 0px;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
     overflow: hidden;
     place-items: center;
 }
